@@ -1,0 +1,1 @@
+The current project is focused on building a basic HTML website for recipes. Once complete, I will have demonstrated all necessary site building skills such as creating an HTML boilerplate, adding headings, ordered lists, unordered lists, images, italics and bold words.
