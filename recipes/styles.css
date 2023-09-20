@@ -35,3 +35,33 @@
   text-align: center;
   font-size: 32px;
 }
+.beeftitle {
+  background-color: orange;
+}
+.beefbody {
+  background-color: orange;
+  color: rgba(209, 65, 65, 0.781);
+}
+.beef {
+  background-color: orange;
+  color: rgba(204, 51, 51, 0.823);
+  text-align: center;
+  font-size: 85px;
+}
+.beefpic {
+  width: 1000px;
+  height: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.beefh2 {
+  text-align: center;
+  font-size: 32px;
+  background-color: orange;
+  color: brown;
+}
+.instructs {
+  background-color: orange;
+  color: brown;
+}
