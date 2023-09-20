@@ -17,3 +17,21 @@
   margin-left: auto;
   margin-right: auto;
 }
+.alfredo {
+  text-align: center;
+  color: rgb(230, 243, 172);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 200;
+  font-size: 80px;
+}
+.alfpic {
+  width: 800px;
+  height: 1100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.alfh2 {
+  text-align: center;
+  font-size: 32px;
+}
